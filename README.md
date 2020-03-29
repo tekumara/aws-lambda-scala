@@ -1,3 +1,7 @@
+
+### This repo is no longer maintained. See [seek-oss/aws-lambda-scala](https://github.com/seek-oss/aws-lambda-scala) instead.
+
+
 # aws-lambda-scala
 
 Hopefully a fairly complete production example of a simple scala lambda with cloudwatch logs and alarms, a dead letter queue, a stack policy, deployment of separate stacks for prod and dev environments, and tooling to manage the stacks.
